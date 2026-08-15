@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Shyam Sundar GitHub Banner">
-
-</div>
+<img src="https://raw.githubusercontent.com/shyam2329/shyam2329/main/assets/github-banner.png" width="100%" alt="Shyam Sundar GitHub Banner">
 
 <br>
-
-<div align="center">
+<br>
 
 # 🕷️ SHYAM SUNDAR
 
