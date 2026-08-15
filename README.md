@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shyam2329/shyam2329/main/assets/github-banner.png" width="100%" alt="Shyam Sundar GitHub Banner">
+<img src="./assets/github-banner.png" width="100%" alt="Shyam Sundar GitHub Banner">
 
 <br>
 <br>
